@@ -71,7 +71,7 @@ for (values in age_group_list_raw) {
 }
 vec_age <- unlist(age_group_list)
 hist(vec_age)
-#we see here that though the number of deaths for older patients is higher, the younger adults have a higher frequency of kids
+#we see here that though the number of deaths for older patients is higher, the younger adults have a higher frequency of cases
 
 
 
